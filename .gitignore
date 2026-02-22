@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data files (may contain sensitive run outputs — add intentionally if needed)
+data/*.csv
+
+# OS
+.DS_Store
