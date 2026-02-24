@@ -9,8 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
-# Data files (may contain sensitive run outputs — add intentionally if needed)
-data/*.csv
+# Data files — committed intentionally for Streamlit Cloud deployment
+# (no sensitive data; evaluation outputs only)
 
 # OS
 .DS_Store
